@@ -3,6 +3,7 @@
 <!--
 **AbdelrhmanAmin/AbdelrhmanAmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 ![](https://64.media.tumblr.com/953aa61572f61a52c032b8d1303c2f94/tumblr_o3irc5PTnD1tqtfrjo1_500.gif)
 Here are some ideas to get you started:
 
