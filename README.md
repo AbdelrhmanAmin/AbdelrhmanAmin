@@ -18,3 +18,9 @@ const Abdo_Amin = {
 
 [Facebook](https://www.facebook.com/AliZien1999),
 [Linkedin](https://www.linkedin.com/in/abdo-amin-ab786a1b0/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdo-amin-ab786a1b0//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/abdo-amin-ab786a1b0/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/AliZien1999/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/AliZien1999/" height="30" width="40" /></a>
+</p>
