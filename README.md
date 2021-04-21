@@ -17,6 +17,6 @@ const Abdo_Amin = {
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrhmanAmin)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdo-amin-ab786a1b0//" target="blank"><img align="center" src="https://img.icons8.com/bubbles/200/000000/twitter.png" alt="https://www.linkedin.com/in/abdo-amin-ab786a1b0/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/AliZien1999/" target="blank"><img align="center" src="https://img.icons8.com/clouds/200/000000/facebook-new.png" alt="https://www.facebook.com/AliZien1999/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdo-amin-ab786a1b0//" target="blank"><img align="center" src="https://img.icons8.com/bubbles/200/000000/twitter.png" alt="https://www.linkedin.com/in/abdo-amin-ab786a1b0/" height="80" width="80" /></a>
+<a href="https://www.facebook.com/AliZien1999/" target="blank"><img align="center" src="https://img.icons8.com/clouds/200/000000/facebook-new.png" alt="https://www.facebook.com/AliZien1999/" height="80" width="80" /></a>
 </p>
