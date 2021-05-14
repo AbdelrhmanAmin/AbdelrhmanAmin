@@ -7,7 +7,7 @@ const Abdo_Amin = {
   History: ["I was born in 1999", "I wrote my first 'Hello World' in 2017"],
   pronouns: ["He", "Him"],
   code: [JavaScript, React&Redux, RubyonRails, HTML/CSS, Bootstrap, Ruby],
-  askMeAbout: [Cats, Meditation, Spirituality, Yoga, Mind-mastery, Discipline],
+  askMeAbout: [Cats, Meditation, Spirituality, Yoga, Mind_mastery, Discipline],
   challenge: "I am marching toward Reactjs mastery!",
   funFacts: ['I had 7 cats once', 
   'I can meditate up to 6 hours a day'],
