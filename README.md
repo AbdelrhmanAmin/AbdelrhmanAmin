@@ -7,10 +7,9 @@ const Abdo_Amin = {
   History: ["I was born in 1999", "I wrote my first 'Hello World' in 2017"],
   pronouns: ["He", "Him"],
   code: [JavaScript, React&Redux, RubyonRails, HTML/CSS, Bootstrap, Ruby],
-  askMeAbout: [Cats, Meditation, Spirituality, Yoga, Mind_mastery, Discipline],
-  challenge: "I am marching toward Reactjs mastery!",
-  funFacts: ['I had 7 cats once', 
-  'I can meditate up to 6 hours a day'],
+  interests: [Cats, Meditation, Yoga],
+  challenge: "I am actively searching for a job!",
+  funFacts: ['I have 2 older brothers, both of them are web developers', 'My oldest brother is a senior front-end developer at Booking.com'],
 }
 ```
 
