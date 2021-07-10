@@ -2,6 +2,7 @@
 
 <div style='display:flex;'>
  ![GIF](https://45.media.tumblr.com/953aa61572f61a52c032b8d1303c2f94/tumblr_o3irc5PTnD1tqtfrjo1_500.gif)
+ 
 ```javascript
 const Abdo_Amin = {
   if(lookingFor === "Front-end developer" || "Full-stack web developer"),
