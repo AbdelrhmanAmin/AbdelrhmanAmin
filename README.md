@@ -44,6 +44,6 @@ const Abdo_Amin = {
 ```
 
 <p align="center">
-<a target="_blank" href="https://linkedin.com/in/abdoamin" style="color:white;" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="AbdoAmin" height="60" width="60" /></a>&nbsp;
-<a target="_blank" href="https://https://abdoamin.medium.com/" style="color:white;" target="blank"><img align="center" src="https://brandslogos.com/wp-content/uploads/images/large/medium-logo.png" alt="AbdoAmin" height="80" width="120" /></a>&nbsp;
+<a target="_blank" href="https://linkedin.com/in/abdoamin" style="color:white;" ><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="AbdoAmin" height="60" width="60" /></a>&nbsp;
+<a target="_blank" href="https://https://abdoamin.medium.com/" style="color:white;" ><img align="center" src="https://brandslogos.com/wp-content/uploads/images/large/medium-logo.png" alt="AbdoAmin" height="80" width="120" /></a>&nbsp;
 </p>
