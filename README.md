@@ -7,7 +7,7 @@
 
 ```javascript
 const Abdo_Amin = {
-  position: (hiring?) {return "Front-end developer" || "Full-stack web developer"} ,
+  position: [hiring? => "Front-end developer" || "Full-stack web developer" ],
   history: ["I was born in 1999", "I wrote my first 'Hello World' in 2017"],
   frontEnd: ["JavaScript", "ReactJS", "HTML&CSS"],
   backEnd: ["Ruby", "Ruby on Rails"],
@@ -16,23 +16,12 @@ const Abdo_Amin = {
 }
 ```
 ---
-### 🐱 My Github stats:
-![Abdo's github stats](https://github-readme-stats.vercel.app/api?username=AbdelrhmanAmin&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanAmin&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/AbdelrhmanAmin/github-readme-stats)
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="55" height="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="55" height="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="55" height="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="55" height="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="55" height="55"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="45" height="45"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="HEROKU" width="35" height="35"/> 
+  <img src='https://github-readme-stats.vercel.app/api?username=AbdelrhmanAmin&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]' />
 </p>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**I'm a Night Owl🦉** 
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
@@ -41,6 +30,20 @@ const Abdo_Amin = {
 🌙 Night      83 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
 
 ```
+
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="55" height="55"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="HEROKU" width="55" height="55"/> 
+</p>
+
+
 
 <p align="center">
 <a target="_blank" href="https://linkedin.com/in/abdoamin" style="color:white;" ><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="AbdoAmin" height="60" width="60" /></a>&nbsp;
