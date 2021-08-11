@@ -7,11 +7,10 @@
 
 ```javascript
 const Abdo_Amin = {
-  if(lookingFor === "Front-end developer" || "Full-stack web developer"),
-  History: ["I was born in 1999", "I wrote my first 'Hello World' in 2017"],
-  pronouns: ["He", "Him"],
-  code: [JavaScript, React&Redux, RubyonRails, HTML&CSS, Bootstrap, Ruby],
-  interests: [Cats, Meditation, Yoga],
+  position = hiring ? "Front-end developer" || "Full-stack web developer",
+  history: ["I was born in 1999", "I wrote my first 'Hello World' in 2017"],
+  frontEnd: ["JavaScript", "ReactJS", "HTML&CSS"],
+  backEnd: ["Ruby", "Ruby on Rails"],
   challenge: "I am actively searching for a job!",
   funFacts: ['I have 2 older brothers, both of them are web developers', 'My oldest brother is a senior front-end developer at Booking.com'],
 }
