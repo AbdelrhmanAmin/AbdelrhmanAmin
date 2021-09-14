@@ -7,7 +7,7 @@
 
 ```javascript
 const Abdo_Amin = {
-  position: [hiring? => "Front-end developer" || "Full-stack web developer" ],
+  position: "React Developer @Startfi.oi",
   history: ["I was born in 1999", "I wrote my first 'Hello World' in 2017"],
   frontEnd: ["JavaScript", "ReactJS", "HTML&CSS"],
   backEnd: ["Ruby", "Ruby on Rails"],
