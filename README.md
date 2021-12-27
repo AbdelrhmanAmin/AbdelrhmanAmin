@@ -9,10 +9,8 @@
 const Abdo_Amin = {
   position: "React Developer @Startfi.io",
   history: ["I was born in 1999", "I wrote my first 'Hello World' in 2017"],
-  frontEnd: ["JavaScript", "ReactJS", "HTML&CSS"],
-  backEnd: ["Ruby", "Ruby on Rails"],
-  challenge: "I am actively searching for a job!",
-  funFacts: ['I have 2 older brothers, both of them are web developers', 'My oldest brother is a senior front-end developer at Booking.com'],
+  frontEnd: ["JavaScript", "ReactJS", "Tailwind"],
+  challenge: "Learning JavaScript!",
 }
 ```
 ---
