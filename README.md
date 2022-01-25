@@ -1,33 +1,7 @@
-# Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px"> :) 
 
-<p align="center">
-  <img width="460" height="300" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
-    <img width="460" height="300" src="https://45.media.tumblr.com/953aa61572f61a52c032b8d1303c2f94/tumblr_o3irc5PTnD1tqtfrjo1_500.gif">
-</p>
-
-```javascript
-const Abdo_Amin = {
-  position: "React Developer @Startfi.io",
-  history: ["I was born in 1999", "I wrote my first 'Hello World' in 2017"],
-  frontEnd: ["JavaScript", "ReactJS", "Tailwind"],
-  challenge: "Learning JavaScript!",
-}
-```
----
 <p align="center">
   <img src='https://github-readme-stats.vercel.app/api?username=AbdelrhmanAmin&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]' />
 </p>
-
-<!--START_SECTION:waka-->
-**I'm a Night Owl🦉** 
-
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
-🌃 Evening    172 commits    █████████████░░░░░░░░░░░░   53.09% 
-🌙 Night      83 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
-
-```
 
 ---
 
